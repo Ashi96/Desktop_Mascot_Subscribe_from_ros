@@ -1,13 +1,13 @@
 # Desktop_Mascot_Subscribe_from_ros
 ![Alt](https://github.com/Ashi96/Desktop_Mascot_Subscribe_from_ros/blob/master/docs/images/Desktop_Mascot_Subscribe_from_ros.JPG)
-### Overview
+## Overview
 Make Desktop Mascot and Subscribe message from ros with rosbridge
-### Description
+## Description
 - Made mascot on the desktop (Desktop Mascot).  
 - Subscribe message from ros  with rosbridge and display message on the Desktop.  
-### Demo
+## Demo
 (https://www.youtube.com/watch?v=8awjROK_xuI&feature=youtu.be)
-### Requirement
+## Requirement
 - Computer  
   - AlienWare R13
 - OS
@@ -15,11 +15,11 @@ Make Desktop Mascot and Subscribe message from ros with rosbridge
   - Ubuntu 16.04 (VirtualBox)
 - ROS
   - ROS kinetic kame
-### Software
+## Software
 - Unity 2017.3.1f1 (64-bit)
 - Character
   - unity-chan  (http://unity-chan.com/contents/guideline/)
-### Usage
+## Usage
 #### rosbridge
 - Ubuntu 16.04
   - rosbridge_suite  (http://wiki.ros.org/rosbridge_suite)
@@ -47,7 +47,8 @@ $ git clone https://github.com/Ashi96/Desktop_Mascot_Subscribe_from_ros.git
 ~~~
 ##### Subscribe
 - Build & Run
-### License
-- unity-chan
+## License
+- unity-chan  
 ![Alt](https://github.com/Ashi96/Desktop_Mascot_Subscribe_from_ros/blob/master/docs/images/imageLicenseLogo.png)
-- MIT License
+- MIT License  
+This software is released under the MIT License, see LICENSE.txt.
