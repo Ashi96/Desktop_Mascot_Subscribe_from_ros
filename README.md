@@ -1,4 +1,5 @@
 # Desktop_Mascot_Subscribe_from_ros
+![Alt](https://github.com/Ashi96/Desktop_Mascot_Subscribe_from_ros/blob/master/docs/images/Desktop_Mascot_Subscribe_from_ros.JPG)
 ### Overview
 Make Desktop Mascot and Subscribe message from ros with rosbridge
 ### Description
@@ -48,4 +49,5 @@ $ git clone https://github.com/Ashi96/Desktop_Mascot_Subscribe_from_ros.git
 - Build & Run
 ### License
 - unity-chan
-  - © Unity Technologies Japan/UCL
+![Alt](https://github.com/Ashi96/Desktop_Mascot_Subscribe_from_ros/blob/master/docs/images/imageLicenseLogo.png)
+- MIT License
