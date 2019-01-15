@@ -18,7 +18,7 @@ Make Desktop Mascot and Subscribe message from ros with rosbridge
 ## Software
 - Unity 2017.3.1f1 (64-bit)
 - Character
-  - unity-chan  (http://unity-chan.com/contents/guideline/)
+  - unity-chan  (http://unity-chan.com)
 ## Usage
 #### rosbridge
 - Ubuntu 16.04
