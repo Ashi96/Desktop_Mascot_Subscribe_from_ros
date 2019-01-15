@@ -35,6 +35,9 @@ $ cd ../ && catkin_make
 ##### Publish
 ~~~
 $ roscore
+~~~
+Another terminal
+~~~
 $ rosrun ros_publish_to_unity chat.py
 ex) display "Hello World!!"
 Hello World!!
